@@ -1,0 +1,10 @@
+@font-face {
+    font-family: triglavian;
+    src: url(./fonts/Triglavian-Regular.ttf);
+}
+
+html {
+    font-family: triglavian;
+    color: white;
+    background-color: black;
+}
